@@ -1,5 +1,7 @@
 # externa-sveltekit-starter
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/qiick-io/externa-sveltekit-starter/badge)](https://scorecard.dev/viewer/?uri=github.com/qiick-io/externa-sveltekit-starter)
+
 Official **SvelteKit** headless starter for [Externa](https://github.com/qiick-io/externa-core), the open-source Laravel headless CMS.
 
 > **Status: in development.** This repository does not contain the starter code yet. The first version is tracked in this repo's issues.
